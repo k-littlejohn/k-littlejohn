@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;"/>
-  <span style="font-size: 36px; vertical-align: middle; display: inline-block; margin: 0 20px;">
+  <span style="font-size: 36px; display: inline-block; margin: 0 20px; position: relative; top: -100px;">
     <strong>Hi, I'm Kaitlyn!</strong>
   </span>
   <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;"/>
 </p>
+
 
 
 
