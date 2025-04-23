@@ -1,12 +1,11 @@
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" /></td>
-    <td align="center" valign="middle">
-      <h1 style="margin: 0;">Hi, I'm Kaitlyn!</h1>
-    </td>
-    <td><img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;"/>
+  <span style="font-size: 36px; vertical-align: middle; display: inline-block; margin: 0 20px;">
+    <strong>Hi, I'm Kaitlyn!</strong>
+  </span>
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;"/>
+</p>
+
 
 
 
