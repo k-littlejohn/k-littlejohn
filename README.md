@@ -1,9 +1,7 @@
 <p align="center" style="position: relative;">
-  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;"/>
-  <span style="font-size: 36px; display: inline-block; position: absolute; top: -350px; left: 50%; transform: translateX(-50%);">
-    <strong>Hi, I'm Kaitlyn!</strong>
-  </span>
-  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;"/>
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/383d4373-94ff-4963-ae7a-0683bb35127b" width="485" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" style="vertical-align: middle;" />
 </p>
 
 
