@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="150"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong style="font-size: 32px;">Hi, I'm Kaitlyn!</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="150"/>
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" />
+  <span style="font-size: 36px; vertical-align: middle; display: inline-block; line-height: 250px; margin: 0 20px;">
+    <strong>Hi, I'm Kaitlyn!</strong>
+  </span>
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="250" />
 </p>
+
 
 
 
