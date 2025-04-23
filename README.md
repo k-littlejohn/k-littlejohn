@@ -1,4 +1,9 @@
-# Hi, I'm Kaitlyn!
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="50"/>
+  Hi, I'm Kaitlyn!
+  <img src="https://github.com/user-attachments/assets/a06836eb-3e89-4f48-9b75-9fdccc92c7fe" width="50"/>
+</h1>
+
 
 ---
 
