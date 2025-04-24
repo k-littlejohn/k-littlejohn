@@ -14,7 +14,7 @@
 
 ## ⭐ About Me
 
-Hi! I'm Kaitlyn, a 4th year Computer Science student focused on software engineering and mobile app development. I enjoy building clean, functional user interfaces and turning UI/UX designs into real, usable apps by bridging the gap between design and code.
+Hi! I'm Kaitlyn,I enjoy crafting clean, functional user interfaces and love transforming UI/UX designs into seamless, user-friendly apps.
 ---
 
 ## 💻 Tech Stack:
