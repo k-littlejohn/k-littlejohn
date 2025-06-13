@@ -14,7 +14,7 @@
 
 ## ⭐ About Me
 
-Hi! I'm Kaitlyn,I enjoy crafting clean, functional user interfaces and love transforming UI/UX designs into seamless, user-friendly apps.
+Hi, I'm Kaitlyn. I excel at creating unique, intuitive user interfaces and transforming UI/UX designs into seamless, user-focused applications. I enjoy collaborating with teams to deliver innovative products that showcase the inspiration behind them.
 ---
 
 ## 💻 Tech Stack:
