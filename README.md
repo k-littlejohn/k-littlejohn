@@ -14,7 +14,7 @@
 
 ## ⭐ About Me
 
-Hi, I'm Kaitlyn. I excel at creating unique, intuitive user interfaces and transforming designs into seamless, user-focused applications. I enjoy collaborating with teams to deliver innovative products that showcase the inspiration behind them.
+I excel at creating unique, intuitive user interfaces and transforming designs into seamless, user-focused applications. I enjoy collaborating with teams to deliver innovative products that showcase the inspiration behind them.
 ---
 
 ## 💻 Tech Stack:
