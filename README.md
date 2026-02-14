@@ -14,7 +14,7 @@
 
 ## ⭐ About Me
 
-I excel at creating unique, intuitive user interfaces and transforming designs into seamless, user-focused applications. I enjoy collaborating with teams to deliver innovative products that showcase the inspiration behind them.
+I enjoy creating unique, intuitive user interfaces and transforming designs into seamless, user-focused applications. I enjoy collaborating with teams to deliver innovative products that showcase the inspiration behind them.
 ---
 
 ## 💻 Tech Stack:
