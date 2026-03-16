@@ -14,7 +14,7 @@
 
 ## ⭐ About Me
 
-I enjoy creating unique, intuitive user interfaces and transforming designs into seamless, user-focused applications. I enjoy collaborating with teams to deliver innovative products that showcase the inspiration behind them.
+I enjoy taking an idea, designing a clean interface for it, and turning it into an application that people can use easily.
 ---
 
 ## 💻 Tech Stack:
