@@ -14,6 +14,7 @@
 I’m a Computer Science graduate focused on building full-stack applications and data-driven systems that turn complex data into practical tools.
 
 I’ve worked on projects involving simulation systems, database design, and user-facing platforms, with a strong focus on structuring data and creating clear, functional workflows. My recent work includes developing a forex trading simulation app that allows users to backtest strategies on real market data and analyze performance outcomes.
+
 ---
 
 ## 💻 Tech Stack:
