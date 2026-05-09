@@ -13,13 +13,11 @@
 
 I’m a software developer focused on building full-stack applications, clean user interfaces, and data-driven systems that turn complex information into practical tools.
 
-I enjoy working on projects that combine software engineering, database design, UI design, and clear user workflows. My work has involved building user-facing platforms, structuring data, and developing systems that help users test ideas, understand results, and make more informed decisions.
+I’m especially interested in data analysis, software engineering, full-stack development, database systems, and clean, functional user experiences.
 
 One of my recent projects is a forex trading simulation app that uses real market data to let users backtest strategies, track performance, and analyze trading outcomes. Through this project, I worked on app architecture, data handling, UI flow, database planning, and performance-focused features.
 
-I’m especially interested in data analysis, software engineering, full-stack development, database systems, and clean, functional user experiences.
-
-I hold a Bachelor of Science Degree in Computer Science and Economics.
+I hold a Bachelor of Science in Computer Science and Economics.
 
 ---
 ## 💻 Tech Stack
