@@ -12,8 +12,10 @@
 ## About Me
 
 Computer Science graduate with a minor in Economics, based in Edmonton. I build data-driven applications and analytical systems, and I'm most interested in turning raw data into something genuinely useful — whether that's a dashboard a non-technical team can actually navigate, a pipeline that cleans and structures messy real-world data, or a visualization that makes a trend obvious at a glance.
+
 My recent projects include a forex trading simulation platform with a SQLite pipeline processing 100,000+ rows of historical market data per currency pair, a GIS property market visualization built on the City of Edmonton's 448,000-record open dataset, and a published Netflix trend analysis dashboard on Tableau Public.
 I work across the full stack — React, Next.js, Supabase, PostgreSQL, Python, SQL, Firebase — and use AI tooling actively in my development workflow. I care about clean documentation as much as clean code.
+
 Currently open to remote data analyst and software development roles or in Edmonton.
 
 ---
